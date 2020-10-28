@@ -76,7 +76,6 @@ img{
 .card {
   background-color:rgba(255, 255, 255, 0.7);
   box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.1);
-  border-radius: 30px;
   border-color:rgba(0, 0, 0, 1);
   padding: 30px 60px;
   margin: 100px 0px;
